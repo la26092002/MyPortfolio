@@ -483,3 +483,7 @@
       grid-template-columns: 1fr;
     }
   }
+
+  .about-summary p {
+    text-align: justify;
+}
